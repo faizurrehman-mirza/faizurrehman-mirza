@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Faizurrehman Mirza</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+  Hi there, I'm Faizurrehman Mirza
+</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;Django+%7C+REST+APIs+%7C+SQL;Final+Year+CSE+Student" alt="Typing SVG" />
 </h3>
