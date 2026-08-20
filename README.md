@@ -32,18 +32,22 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizurrehman-mirza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="faizurrehman-mirza" /></p>
+<p><img align="left" src="https://github-readme-stats-vercel-seven-drab.vercel.app/api/top-langs/?username=faizurrehman-mirza&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="faizurrehman-mirza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizurrehman-mirza&show_icons=true&locale=en&theme=tokyonight" alt="faizurrehman-mirza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-vercel-seven-drab.vercel.app/api?username=faizurrehman-mirza&show_icons=true&locale=en&theme=tokyonight" alt="faizurrehman-mirza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizurrehman-mirza&theme=tokyonight" alt="faizurrehman-mirza" /></p>
 
 <br clear="left"/>
 
 
-### 🐍 Contribution Graph
+<div align="center">
+  
+  
+  ![snake gif](https://github.com/faizurrehman-mirza/faizurrehman-mirza/blob/output/github-snake-dark.svg)
 
-![Snake animation](https://github.com/faizurrehman-mirza/faizurrehman-mirza/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 <p align="center">⭐️ Thanks for stopping by — let's build something!</p>
